@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html>
+
+<HTML>
 <head>
-    <title>Достопримечательности России</title>
+    Достопримечательности России
 </head>
 <frameset rows="150,*" frameborder="1" border="2">
     <frame src="header.html" name="top_frame" scrolling="no" noresize>
@@ -11,4 +11,4 @@
         <frame src="content.html" name="main_frame">
     </frameset>
 </frameset>
-</html>
+
