@@ -1,1 +1,14 @@
-# Russia_frame
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Достопримечательности России</title>
+</head>
+<frameset rows="150,*" frameborder="1" border="2">
+    <frame src="header.html" name="top_frame" scrolling="no" noresize>
+    
+    <frameset cols="25%,*">
+        <frame src="menu.html" name="menu_frame">
+        <frame src="content.html" name="main_frame">
+    </frameset>
+</frameset>
+</html>
